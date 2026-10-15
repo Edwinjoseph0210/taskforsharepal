@@ -1,0 +1,6 @@
+{
+  "name": "SharePal - Gaming Gadgets on Rent",
+  "description": "Rent PlayStation 5, Xbox Series X, VR headsets, and gaming gear on rent in Bangalore with SharePal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
